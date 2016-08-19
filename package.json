@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/peers/peerjs-server.git"
+    "url": "git://github.com/yoavlt/peerjs-server.git"
   },
   "author": "Michelle Bu, Eric Zhang",
   "license": "MIT",
